@@ -1,0 +1,20 @@
+body{
+    background-color: cornflowerblue;
+    color: whitesmoke;
+}
+
+button{
+    background-color: black;
+    color: whitesmoke;
+}
+
+#conteudo{
+    position: absolute;
+    top: 340px;
+    left: 4px;
+    background-color: brown;
+    border: 2px solid black;
+    color: whitesmoke;
+    display: none;
+    
+}
